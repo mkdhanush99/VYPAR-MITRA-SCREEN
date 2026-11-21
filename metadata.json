@@ -1,0 +1,6 @@
+{
+  "name": "Vyapara Mitra — Free Business Directory",
+  "description": "Public business directory, owner customer portal, and admin moderation console for Andhra Pradesh and Telangana (61 districts, bilingual Telugu & English).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
